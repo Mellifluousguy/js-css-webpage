@@ -24,4 +24,4 @@ To run the webpage locally, follow these steps:
 
 ## Demo
 
-[Link to Live Demo]([https://mellifluousguy.github.io/js-css-webpage/])
+[Link to Live Demo](https://mellifluousguy.github.io/js-css-webpage/)
