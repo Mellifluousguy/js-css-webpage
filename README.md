@@ -1,4 +1,4 @@
-#js-css-webpage
+# js-css-webpage
 
 A minimalistic webpage created using only JavaScript and CSS.
 
