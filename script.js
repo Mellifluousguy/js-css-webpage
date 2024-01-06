@@ -41,7 +41,7 @@ function Img() {
 
     // Adding first heading In the Container
     let Heading1 = document.createElement('h1');
-    // let name = prompt('Hey user please enter your Name:- ');
+    let name = prompt('Hey user please enter your Name:- ');
     Heading1.textContent = `Hey ${name}!!`;
     ImgContainer.appendChild(Heading1);
 
